@@ -27,3 +27,11 @@
 <br>
 <p>Make a prediction with a new data point based on loaded data:</p>
 <code>String predictedCategory = visualML.predict(x, y);</code>
+<br>
+<br>
+
+<h3>Example:</h3>
+<img src="images/Screenshot (28).png"></img>
+<p>The different colored dots represent different categories in the existing data.</p>
+<img src="images/Screenshot (30).png"></img>
+<p>The black dot represents the point that a prediction is based on, since it is closest to the red point (1, 2), the program predicts that the black dot falls under the category of red points.</p>
