@@ -6,6 +6,7 @@
 <p>The first parameter is an X value, the second is a Y value, and the third parameter is the category the respective point falls under.</p>
 <p>For example:</p>
 <code>1, 2, category1</code>
+<br>
 <code>4, 1, category2</code>
 <br>
 <br>
