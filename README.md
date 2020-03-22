@@ -34,4 +34,4 @@
 <img src="images/Screenshot (28).png"></img>
 <p>The different colored dots represent different categories in the existing data.</p>
 <img src="images/Screenshot (30).png"></img>
-<p>The black dot represents the point that a prediction is based on, since it is closest to the red point (1, 2), the program predicts that the black dot falls under the category of red points.</p>
+<p>The black dot represents the point that a prediction is based on, since it is closest to the red point <code>(1, 2)</code>, the program predicts that the black dot falls under the category of red points.</p>
