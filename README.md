@@ -1,2 +1,2 @@
-# VisualML
-Linear ML model based on 2 dimensional coordinate geometry
+<h1>VisualML</h1>
+<p>VisualML is a Java library used to make predictions based on existing data.</p>
