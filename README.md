@@ -1,4 +1,4 @@
-<h1>VisualML</h1>
+<img src="images/Screnshot (33).png"></img>
 <p>VisualML is a Java library used to make predictions based on existing data.</p>
 
 <h3>Setting up your data:</h3>
