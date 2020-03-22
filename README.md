@@ -8,6 +8,7 @@
 <code>1, 2, category1</code>
 <code>4, 1, category2</code>
 <br>
+<br>
 
 <h3>Importing and making predictions:</h3>
 <p>Import VisualML in your project like so, a data filepath must be specified:</p>
