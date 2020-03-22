@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        VisualML visualML = new VisualML("c:/users/bagal/desktop/data.txt"); //Initializes the object with desired data path.
+        VisualML visualML = new VisualML("data.txt"); //Initializes the object with desired data path.
 
         visualML.readRaw(); //Loads each line of the data file into VisualML raw value list.
         visualML.setArrays(); //Sets the X and Y array lengths to the same length of the raw value list.
